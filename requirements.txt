@@ -1,0 +1,6 @@
+bs4==0.0.2
+en-core-web-sm==3.7.1
+requests==2.25.1
+spacy==3.7.4
+tqdm==4.66.2
+
