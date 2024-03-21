@@ -37,7 +37,7 @@ For the improved training:
 
 - uncomment the lines 8-9 and comment 4-5, 12-13; then run the script again
 
-![Image](https://ibb.co/j89Wv62)
+![Image](runshimage.png)
 
 
 
